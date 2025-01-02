@@ -1,5 +1,5 @@
 export function getServerUrl() {
-  return "http://192.168.8.102:80"; // Change this to your server or your local computer IP
+  return "http://192.168.71.51:80"; // Change this to your server or your local computer IP
 }
 
 // for example
